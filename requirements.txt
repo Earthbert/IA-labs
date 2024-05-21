@@ -32,6 +32,7 @@ MarkupSafe==2.1.5
 matplotlib==3.8.4
 matplotlib-inline==0.1.6
 mistune==3.0.2
+mnist==0.2.2
 more-itertools==10.2.0
 nbclient==0.10.0
 nbconvert==7.16.3
